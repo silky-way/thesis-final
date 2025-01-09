@@ -1,0 +1,1209 @@
+{
+    "name": "0_40_60",
+    "road": {
+        "length": 100,
+        "width": 3
+    },
+    "commuters": [
+        {
+            "id": 0,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.68,
+            "start_speed": 6.68,
+            "spawn_step": 117,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 1,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.46,
+            "start_speed": 5.17,
+            "spawn_step": 719,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 2,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.25,
+            "start_speed": 4.95,
+            "spawn_step": 1148,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 3,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.28,
+            "start_speed": 7.28,
+            "spawn_step": 1428,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 4,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.65,
+            "start_speed": 3.99,
+            "spawn_step": 1940,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 5,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.97,
+            "start_speed": 6.97,
+            "spawn_step": 1959,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 6,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.35,
+            "start_speed": 5.08,
+            "spawn_step": 2155,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 7,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.49,
+            "start_speed": 4.49,
+            "spawn_step": 2432,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 8,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.49,
+            "start_speed": 7.49,
+            "spawn_step": 3158,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 9,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.17,
+            "start_speed": 7.17,
+            "spawn_step": 3386,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 10,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.93,
+            "start_speed": 3.56,
+            "spawn_step": 4933,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 11,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.96,
+            "start_speed": 6.96,
+            "spawn_step": 6058,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 12,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.62,
+            "start_speed": 6.62,
+            "spawn_step": 6457,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 13,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.22,
+            "start_speed": 4.97,
+            "spawn_step": 6758,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 14,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.16,
+            "start_speed": 5.16,
+            "spawn_step": 7025,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 15,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.1,
+            "start_speed": 6.1,
+            "spawn_step": 7196,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 16,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.21,
+            "start_speed": 6.21,
+            "spawn_step": 7695,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 17,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.0,
+            "start_speed": 4.8,
+            "spawn_step": 7739,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 18,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.53,
+            "start_speed": 8.53,
+            "spawn_step": 7751,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 19,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.76,
+            "start_speed": 7.76,
+            "spawn_step": 7801,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 20,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.85,
+            "start_speed": 7.85,
+            "spawn_step": 8493,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 21,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.93,
+            "start_speed": 4.75,
+            "spawn_step": 8588,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 22,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.23,
+            "start_speed": 7.23,
+            "spawn_step": 9216,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 23,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.02,
+            "start_speed": 6.41,
+            "spawn_step": 9386,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 24,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.73,
+            "start_speed": 6.98,
+            "spawn_step": 9442,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 25,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.91,
+            "start_speed": 6.33,
+            "spawn_step": 10373,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 26,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.14,
+            "start_speed": 7.14,
+            "spawn_step": 10444,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 27,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.04,
+            "start_speed": 6.43,
+            "spawn_step": 11176,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 28,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.44,
+            "start_speed": 6.44,
+            "spawn_step": 11692,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 29,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.4,
+            "start_speed": 4.32,
+            "spawn_step": 12497,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 30,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.25,
+            "start_speed": 5.8,
+            "spawn_step": 13005,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 31,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.37,
+            "start_speed": 8.37,
+            "spawn_step": 13210,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 32,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.18,
+            "start_speed": 4.94,
+            "spawn_step": 13494,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 33,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.24,
+            "start_speed": 4.99,
+            "spawn_step": 13964,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 34,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.61,
+            "start_speed": 6.89,
+            "spawn_step": 14136,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 35,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.45,
+            "start_speed": 6.76,
+            "spawn_step": 14241,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 36,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.62,
+            "start_speed": 8.62,
+            "spawn_step": 14380,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 37,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.91,
+            "start_speed": 6.32,
+            "spawn_step": 14510,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 38,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.63,
+            "start_speed": 4.5,
+            "spawn_step": 14778,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 39,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.43,
+            "start_speed": 8.43,
+            "spawn_step": 15111,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 40,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.41,
+            "start_speed": 5.05,
+            "spawn_step": 15348,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 41,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.43,
+            "start_speed": 4.34,
+            "spawn_step": 15472,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 42,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.87,
+            "start_speed": 5.5,
+            "spawn_step": 15693,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 43,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.04,
+            "start_speed": 3.02,
+            "spawn_step": 16002,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 44,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.3,
+            "start_speed": 3.18,
+            "spawn_step": 16645,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 45,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.18,
+            "start_speed": 2.87,
+            "spawn_step": 16679,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 46,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.84,
+            "start_speed": 5.31,
+            "spawn_step": 17230,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 47,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.93,
+            "start_speed": 5.55,
+            "spawn_step": 17236,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 48,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.74,
+            "start_speed": 8.74,
+            "spawn_step": 17375,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 49,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.03,
+            "start_speed": 6.03,
+            "spawn_step": 17453,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 50,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.27,
+            "start_speed": 6.27,
+            "spawn_step": 17694,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 51,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.67,
+            "start_speed": 6.94,
+            "spawn_step": 17731,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 52,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.23,
+            "start_speed": 7.23,
+            "spawn_step": 17766,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 53,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.85,
+            "start_speed": 5.48,
+            "spawn_step": 18097,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 54,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.48,
+            "start_speed": 6.78,
+            "spawn_step": 18179,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 55,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.55,
+            "start_speed": 7.55,
+            "spawn_step": 18416,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 56,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.86,
+            "start_speed": 5.31,
+            "spawn_step": 18587,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 57,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.19,
+            "start_speed": 8.19,
+            "spawn_step": 18613,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 58,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.59,
+            "start_speed": 6.07,
+            "spawn_step": 18694,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 59,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.88,
+            "start_speed": 7.88,
+            "spawn_step": 18895,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 60,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.08,
+            "start_speed": 6.46,
+            "spawn_step": 18981,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 61,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.66,
+            "start_speed": 7.66,
+            "spawn_step": 19182,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 62,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.78,
+            "start_speed": 7.78,
+            "spawn_step": 19286,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 63,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 9.63,
+            "start_speed": 5.78,
+            "spawn_step": 19452,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 64,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.06,
+            "start_speed": 6.45,
+            "spawn_step": 20007,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 65,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.63,
+            "start_speed": 6.1,
+            "spawn_step": 20684,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 66,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.19,
+            "start_speed": 6.19,
+            "spawn_step": 21232,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 67,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.36,
+            "start_speed": 3.82,
+            "spawn_step": 22258,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 68,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.11,
+            "start_speed": 4.09,
+            "spawn_step": 22303,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 69,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.07,
+            "start_speed": 7.07,
+            "spawn_step": 22346,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 70,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.28,
+            "start_speed": 3.31,
+            "spawn_step": 22395,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 71,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.64,
+            "start_speed": 6.64,
+            "spawn_step": 22452,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 72,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.53,
+            "start_speed": 5.23,
+            "spawn_step": 22626,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 73,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.4,
+            "start_speed": 3.24,
+            "spawn_step": 22655,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 74,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.37,
+            "start_speed": 6.7,
+            "spawn_step": 22981,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 75,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.47,
+            "start_speed": 4.48,
+            "spawn_step": 23459,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 76,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.63,
+            "start_speed": 3.38,
+            "spawn_step": 23463,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 77,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.04,
+            "start_speed": 4.03,
+            "spawn_step": 23650,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 78,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.35,
+            "start_speed": 2.94,
+            "spawn_step": 25116,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 79,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.87,
+            "start_speed": 4.12,
+            "spawn_step": 25122,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 80,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.61,
+            "start_speed": 6.09,
+            "spawn_step": 25696,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 81,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.07,
+            "start_speed": 7.07,
+            "spawn_step": 25763,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 82,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 9.16,
+            "start_speed": 3.66,
+            "spawn_step": 25833,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 83,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.64,
+            "start_speed": 6.64,
+            "spawn_step": 26096,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 84,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.22,
+            "start_speed": 7.22,
+            "spawn_step": 26404,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 85,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.99,
+            "start_speed": 4.8,
+            "spawn_step": 27109,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 86,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.16,
+            "start_speed": 8.16,
+            "spawn_step": 27500,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 87,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 3.96,
+            "start_speed": 3.17,
+            "spawn_step": 27671,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 88,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.62,
+            "start_speed": 4.57,
+            "spawn_step": 27971,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 89,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.4,
+            "start_speed": 6.4,
+            "spawn_step": 28020,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 90,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.92,
+            "start_speed": 5.53,
+            "spawn_step": 28053,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 91,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.91,
+            "start_speed": 6.91,
+            "spawn_step": 28139,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 92,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.5,
+            "start_speed": 2.6,
+            "spawn_step": 28176,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 93,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.63,
+            "start_speed": 7.63,
+            "spawn_step": 28331,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 94,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 7.06,
+            "start_speed": 7.06,
+            "spawn_step": 28579,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 95,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 6.8,
+            "start_speed": 5.44,
+            "spawn_step": 29065,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 96,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 8.71,
+            "start_speed": 6.97,
+            "spawn_step": 29432,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 97,
+            "vehicle": "ebike",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 5.91,
+            "start_speed": 5.91,
+            "spawn_step": 29872,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 98,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 9.3,
+            "start_speed": 3.72,
+            "spawn_step": 29901,
+            "relaxation_time": 0.03
+        },
+        {
+            "id": 99,
+            "vehicle": "speed_pedelec",
+            "start_position": [
+                0,
+                -1
+            ],
+            "desired_speed": 10.56,
+            "start_speed": 8.45,
+            "spawn_step": 29930,
+            "relaxation_time": 0.03
+        }
+    ]
+}
